@@ -1,0 +1,3 @@
+[submodule "kritis"]
+	path = kritis
+	url = https://github.com/pierozanetti/kritis
